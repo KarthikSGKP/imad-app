@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>
+            Article two | KSP
+        </title>
+        <meta name="viewport" content="width=device=width, inital-scale=1" />
+    </head>
+    
+    <body>
+        <div>
+            <a href="/">Home</a>
+            <hr/>
+            <h3>
+                Article two
+            </h3>
+            <div>
+                Aug, 3 2017
+            </div>
+            <div>
+                <p>
+                    This is article number two(2). I'm very excited.
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
