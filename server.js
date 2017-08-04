@@ -28,7 +28,7 @@ var articles = {
         heading: "Article three",
         date: "Aug, 3 2017",
         content: `<p>
-                    This is article number three(3). I'm very excited.
+                    This is article number three(3). I'm very very very excited.
            </p>`
 }
 };
