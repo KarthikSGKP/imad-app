@@ -14,7 +14,22 @@ var articleOne = {
                     This is article number one(1). I'm very excited.
             </p>`
 };
-
+    articleTwo = {
+        title: "Artcle one | KSP",
+        heading: "Article one",
+        date: "Aug, 3 2017",
+        content: `<p>
+                    This is article number one(1). I'm very excited.
+            </p>`
+    };
+    articleThree = {
+        title: "Artcle one | KSP",
+        heading: "Article one",
+        date: "Aug, 3 2017",
+        content: `<p>
+                    This is article number one(1). I'm very excited.
+           </p>`
+            };
 
 function createTemplate (data) {
     var title = data.title;
