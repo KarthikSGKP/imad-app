@@ -16,19 +16,19 @@ var articles = {
             </p>`
 },
     "article-two": {
-        title: "Artcle one | KSP",
-        heading: "Article one",
+        title: "Artcle two | KSP",
+        heading: "Article two",
         date: "Aug, 3 2017",
         content: `<p>
-                    This is article number one(1). I'm very excited.
+                    This is article number two(2). I'm very very excited.
             </p>`
 },
     "article-three": {
-        title: "Artcle one | KSP",
-        heading: "Article one",
+        title: "Artcle three | KSP",
+        heading: "Article three",
         date: "Aug, 3 2017",
         content: `<p>
-                    This is article number one(1). I'm very excited.
+                    This is article number three(3). I'm very excited.
            </p>`
 }
 };
